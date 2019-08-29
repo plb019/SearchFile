@@ -29,5 +29,5 @@ Pam Lockstein, Google, YouTube, LinkedIn Learning, Stack Overflow
 
 ## Acknowledgments
 
-* My husband for ri·dic·u·lous·ly supportive (considering he had to spend the day managing the packing process of our daughter as she prepares for leaving for college tomorrow)
+* My husband for being ri·dic·u·lous·ly supportive (considering he had to spend the day managing the packing process of our daughter as she prepares for her departure for college tomorrow)
 * Zendesk for giving me a humbling but truely valuable experience
