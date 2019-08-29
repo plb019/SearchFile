@@ -35,7 +35,7 @@ Pam Lockstein, Google, YouTube, LinkedIn Learning, Stack Overflow
 * Zendesk for giving me a humbling but truely valuable experience
 
 ### Description of my development journey:
-- Extatic to receive word I made it to the next round
+- Ecstatic to receive word I made it to the next round
 - Complete panic
 - Giving up (several times)
 - Getting back up, deciding even if only to supply one ounce of working code - it would be worth it.
