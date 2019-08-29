@@ -7,7 +7,9 @@ Intended to leverage the provided data (tickets.json and users.json and organiza
 ### Prerequisites
 
 IDE IntelliJ IDEA CE 2019.2.1
+
 Maven apache-maven-3.6.1
+
 java version "12.0.2" 2019-07-16
 
 ### Installing
@@ -42,4 +44,5 @@ Pam Lockstein, Google, YouTube, LinkedIn Learning, Stack Overflow
 - Unable to get needed functionality from simple text editor (Atom/terminal), install Eclipse (nope, not enough time for this), install IntelliJ (okay, better)
 - Import existing code, make sure it compiles and runs
 - Start looking at the deeper functionality to work with JSON documents
-- Ran out of time, comment out anything that wasn't working to ensure I would have something to share
+- Ran out of time, realizing that to continue inching forward I would require sacrificing family milestones
+- Comment out anything that wasn't working to ensure I would have something to share
