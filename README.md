@@ -40,7 +40,9 @@ Pam Lockstein, Google, YouTube, LinkedIn Learning, Stack Overflow
 - Brainstorm on an inital development plan
 - Read, learn, try, fail, try again, succeed, repeat
 - Unable to get needed functionality from simple text editor (Atom/terminal), install Eclipse (nope, not enough time for this), install IntelliJ (okay, better)
+- Learn how to use GitHub
 - Import existing code, make sure it compiles and runs
 - Start looking at the deeper functionality to work with JSON documents
+- Install Maven
 - Ran out of time, realizing that to continue inching forward I would require sacrificing family milestones
 - Comment out anything that wasn't working to ensure I would have something to share
