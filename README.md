@@ -6,11 +6,9 @@ Intended to leverage the provided data (tickets.json and users.json and organiza
 
 ### Prerequisites
 
-IDE IntelliJ IDEA CE 2019.2.1
-
-Maven apache-maven-3.6.1
-
-java version "12.0.2" 2019-07-16
+* IDE IntelliJ IDEA CE 2019.2.1
+* Maven apache-maven-3.6.1
+* java version "12.0.2" 2019-07-16
 
 ### Installing
 
