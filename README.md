@@ -1,66 +1,33 @@
 # SearchFile
 
-Using the provided data (tickets.json and users.json and organization.json) write a simple command line application (or a locally runnable web-app) to search the data and return the results in a human readable format.
+Intended to leverage the provided data (tickets.json and users.json and organization.json) to write a simple command line application (or a locally runnable web-app) to search the data and return the results in a human readable format.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+IDE IntelliJ IDEA CE 2019.2.1
+Maven apache-maven-3.6.1
+java version "12.0.2" 2019-07-16
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Compile and run Main.java to interact with the main menu
+Type 'quit' to exit at any time, Press 'Enter' to continue
 
-Say what the step will be
-
-```
-Give the example
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+	Select search options:
+	* Press 1 to search Zendesk
+	* Press 2 to view a list of searchable fields
+	* Type 'quit' to exit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-## Versioning
+Integration with JUnit libraries and tests were not established due to time constraints and prioritizing setup and core functionality (¯\_(ツ)_/¯).
 
 ## Authors
-
-## License
+Pam Lockstein, Google, YouTube, LinkedIn Learning, Stack Overflow
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+* My husband for ri·dic·u·lous·ly supportive (considering he had to spend the day managing the packing process of our daughter as she prepares for leaving for college tomorrow)
+* Zendesk for giving me a humbling but truely valuable experience
